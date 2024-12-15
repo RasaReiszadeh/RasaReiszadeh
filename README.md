@@ -1,24 +1,106 @@
-# 💫 About Me:
-<br><br>## 🌟 Additional Information<br><br>- 🔭 **I’m currently working on**  <br>  Developing a **Delivery Management System** using C++ and a **Music App** with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic.<br><br>- 🌱 **I’m currently learning**  <br>  Full-stack development with **Node.js** and **Express.js**, as well as advanced **database management** using MongoDB.<br><br>- 👯 **I’m looking to collaborate on**  <br>  Open-source projects related to **software development**, **web applications**, or **database systems**. I'm especially interested in collaborating on projects that involve **C++**, **Python**, or **JavaScript**.<br><br>- 🤔 **I’m looking for help with**  <br>  Enhancing my skills in **full-stack development**, mastering **Agile/Scrum methodologies**, and improving my **problem-solving** techniques in complex programming scenarios.<br><br>- 💬 **Ask me about**  <br>  **Programming in C++ and Python**, **web development** using JavaScript, HTML, and CSS, **software project management** with Agile/Scrum, or **database design and optimization**.<br><br>- 📫 **How to reach me:**  <br>  - **Email:** [rreiszadeh@myseneca.ca](mailto:rreiszadeh@myseneca.ca)  <br>  - **LinkedIn:** [linkedin.com/in/rasa-reiszadeh-04b8a3290](https://www.linkedin.com/in/rasa-reiszadeh-04b8a3290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  <br>  - **GitHub:** [github.com/RasaReiszadeh](https://github.com/RasaReiszadeh)<br><br>- 😄 **Pronouns:**  <br>  She/Her<br><br>- ⚡ **Fun fact:**  <br>  I transitioned from customer service and tutoring roles into software development, bringing strong communication and problem-solving skills to my technical projects.<br><br>---<br><br>### **How to Integrate This into Your README**<br><br>You can add the above section to your existing README.md file. Here's how the complete README would look with the new **Additional Information** section included:<br><br>```markdown<br># Rasa Reiszadeh | Junior Software Developer | Toronto, Canada 🇨🇦<br><br>## 👨‍💻 About Me<br>Aspiring software developer with a strong foundation in programming and a passion for creating innovative technological solutions. Currently expanding my skills and seeking opportunities to grow in the software development field.<br><br>## 🌐 Social Media & Connections<br><br><div align="left"><br>  <!-- LinkedIn --><br>  <a href="https://www.linkedin.com/in/rasareiszadeh" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>  </a><br>  <br>  <!-- Instagram --><br>  <a href="https://www.instagram.com/rasareiszadeh" target="_blank"><br>    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br>  </a><br>  <br>  <!-- Email --><br>  <a href="mailto:rreiszadeh@myseneca.ca"><br>    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>  </a><br></div><br><br>## 💻 Technical Skills<br><br>### Languages<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>### Web Technologies<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)<br><br>### Database<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br><br>### Tools<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)<br>![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)<br>![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-0E5A8A?style=for-the-badge&logo=visual-paradigm&logoColor=white)<br><br>### Operating Systems<br>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Mac](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)<br><br>## 🚀 Current Focus<br>- Learning new programming frameworks<br>- Developing personal software projects<br>- Improving problem-solving skills<br>- Exploring full-stack development<br><br>## 📊 GitHub Overview<br><br><div align="left"><br>  <img src="https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasaReiszadeh&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"><br></div><br><br>## 📈 Contribution Graph<br><br>![GitHub Contribution Graph](https://github-profile-trophy.vercel.app/?username=RasaReiszadeh&theme=tokyonight&no-frame=true&column=4)<br><br>---<br><br>Passionate about technology and continuous learning 🌱<br><br>## 🌟 Additional Information<br><br>- 🔭 **I’m currently working on**  <br>  Developing a **Delivery Management System** using C++ and a **Music App** with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic.<br><br>- 🌱 **I’m currently learning**  <br>  Full-stack development with **Node.js** and **Express.js**, as well as advanced **database management** using MongoDB.<br><br>- 👯 **I’m looking to collaborate on**  <br>  Open-source projects related to **software development**, **web applications**, or **database systems**. I'm especially interested in collaborating on projects that involve **C++**, **Python**, or **JavaScript**.<br><br>- 🤔 **I’m looking for help with**  <br>  Enhancing my skills in **full-stack development**, mastering **Agile/Scrum methodologies**, and improving my **problem-solving** techniques in complex programming scenarios.<br><br>- 💬 **Ask me about**  <br>  **Programming in C++ and Python**, **web development** using JavaScript, HTML, and CSS, **software project management** with Agile/Scrum, or **database design and optimization**.<br><br>- 📫 **How to reach me:**  <br>  - **Email:** [rreiszadeh@myseneca.ca](mailto:rreiszadeh@myseneca.ca)  <br>  - **LinkedIn:** [linkedin.com/in/rasa-reiszadeh-04b8a3290](https://www.linkedin.com/in/rasa-reiszadeh-04b8a3290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  <br>  - **GitHub:** [github.com/RasaReiszadeh](https://github.com/RasaReiszadeh)<br><br>- 😄 **Pronouns:**  <br>  She/Her<br><br>- ⚡ **Fun fact:**  <br>  I transitioned from customer service and tutoring roles into software development, bringing strong communication and problem-solving skills to my technical projects.<br><br>---<br>```<br><br>### **Explanation of the Filled Sections**<br><br>1. **🔭 I’m currently working on**  <br>   - **Projects:** Highlighting your current projects from your resume shows active engagement and practical application of your skills.<br><br>2. **🌱 I’m currently learning**  <br>   - **Skills Expansion:** Mentioning specific technologies you're learning demonstrates a commitment to growth and adaptability.<br><br>3. **👯 I’m looking to collaborate on**  <br>   - **Collaboration Interests:** Clearly stating the types of projects and technologies you want to collaborate on helps attract like-minded contributors.<br><br>4. **🤔 I’m looking for help with**  <br>   - **Areas for Improvement:** Being open about areas where you seek assistance can encourage mentorship and support from the community.<br><br>5. **💬 Ask me about**  <br>   - **Expertise Areas:** This section highlights your strengths and areas where you can provide value to others.<br><br>6. **📫 How to reach me:**  <br>   - **Contact Information:** Providing multiple ways to contact you makes it easy for others to connect.<br><br>7. **😄 Pronouns:**  <br>   - **Inclusivity:** Sharing your pronouns fosters an inclusive environment and helps others address you correctly.<br><br>8. **⚡ Fun fact:**  <br>   - **Personal Touch:** Sharing a fun fact adds personality to your profile and makes it more relatable.<br><br>### **Final Tips**<br><br>- **Personalize Further:** Feel free to adjust the content to better match your personality and preferences.<br>  <br>- **Keep It Updated:** Regularly update your README to reflect new projects, skills, and experiences.<br><br>- **Use Visuals:** Consider adding relevant images or GIFs to make your README more engaging.<br><br>- **Engage with the Community:** Encourage others to reach out, collaborate, and contribute to your projects.<br>
+# Rasa Reiszadeh | Junior Software Developer | Toronto, Canada 🇨🇦
 
+## 👨‍💻 About Me
+Aspiring software developer with a strong foundation in programming and a passion for creating innovative technological solutions. Currently expanding my skills and seeking opportunities to grow in the software development field.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rasareiszadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rasareiszadeh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasareiszadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Social Media & Connections
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rasareiszadeh&theme=great-gatsby&no-frame=false&no-bg=false&margin-w=4)
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rasareiszadeh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rasareiszadeh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:rreiszadeh@myseneca.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+## 💻 Technical Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rasareiszadeh&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-0E5A8A?style=for-the-badge&logo=visual-paradigm&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## 🚀 Current Focus
+- Learning new programming frameworks
+- Developing personal software projects
+- Improving problem-solving skills
+- Exploring full-stack development
+
+## 📊 GitHub Overview
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasaReiszadeh&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180">
+</div>
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://github-profile-trophy.vercel.app/?username=RasaReiszadeh&theme=tokyonight&no-frame=true&column=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rasareiszadeh&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Passionate about technology and continuous learning 🌱
+
+## 🌟 Additional Information
+
+- 🔭 **I’m currently working on**  
+  Developing a Delivery Management System using C++ and a Music App with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic.
+
+- 🌱 **I’m currently learning**  
+  Full-stack development with Node.js and Express.js, as well as advanced database management using MongoDB.
+
+- 👯 **I’m looking to collaborate on**  
+  Open-source projects related to software development, web applications, or database systems. I'm especially interested in collaborating on projects that involve C++, Python, or JavaScript.
+
+- 🤔 **I’m looking for help with**  
+  Enhancing my skills in full-stack development, mastering Agile/Scrum methodologies, and improving my problem-solving techniques in complex programming scenarios.
+
+- 💬 **Ask me about**  
+  Programming in C++ and Python, web development using JavaScript, HTML, and CSS, software project management with Agile/Scrum, or database design and optimization.
+
+- 📫 **How to reach me:**  
+  - **Email:** [rreiszadeh@myseneca.ca](mailto:rreiszadeh@myseneca.ca)  
+  - **LinkedIn:** [linkedin.com/in/rasa-reiszadeh-04b8a3290](https://www.linkedin.com/in/rasa-reiszadeh-04b8a3290)  
+  - **GitHub:** [github.com/RasaReiszadeh](https://github.com/RasaReiszadeh)
+
+- 😄 **Pronouns:**  
+  She/Her
+
+- ⚡ **Fun fact:**  
+  I transitioned from customer service and tutoring roles into software development, bringing strong communication and problem-solving skills to my technical projects.
+
+---
