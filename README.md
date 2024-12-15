@@ -78,7 +78,7 @@ Passionate about technology and continuous learning 🌱
 ## 🌟 Additional Information
 
 - 🔭 **I’m currently working on**  
-  Developing a Delivery Management System using C++ and a Music App with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic.
+  Developing a Delivery Management System using C++ and a Music App with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic. Starting my co-op as a QA Testing Engineer at MCSSA from winter.
 
 - 🌱 **I’m currently learning**  
   Full-stack development with Node.js and Express.js, as well as advanced database management using MongoDB.
