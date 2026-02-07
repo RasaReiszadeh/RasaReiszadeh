@@ -1,106 +1,85 @@
 # Rasa Reiszadeh | Junior Software Developer | Toronto, Canada 🇨🇦
 
-## 👨‍💻 About Me
-Aspiring software developer with a strong foundation in programming and a passion for creating innovative technological solutions. Currently expanding my skills and seeking opportunities to grow in the software development field.
+## 👩‍💻 About Me
+Junior Software Developer and Computer Programming & Analysis student at Seneca Polytechnic with hands-on experience in software development, QA testing, and automation. I enjoy building practical, user-focused solutions and thrive in environments where learning, collaboration, and problem-solving matter.
+
+I bring a strong mix of technical skills, analytical thinking, and communication experience from both academic projects and professional co-op work in the public sector.
 
 ## 🌐 Social Media & Connections
 
-<div align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rasareiszadeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/rasareiszadeh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:rreiszadeh@myseneca.ca">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasareiszadeh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasareiszadeh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rreiszadeh@myseneca.ca)
 
 ## 💻 Technical Skills
 
-### Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-0E5A8A?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Mac](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🚀 Current Focus
-- Learning new programming frameworks
-- Developing personal software projects
-- Improving problem-solving skills
-- Exploring full-stack development
+- Building full-stack applications with Node.js and Express
+- Strengthening backend and database design skills
+- Practicing clean code, testing, and software design patterns
+- Expanding QA automation knowledge (Selenium, testing workflows)
 
 ## 📊 GitHub Overview
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasaReiszadeh&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&theme=tokyonight&show_icons=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RasaReiszadeh&theme=tokyonight)
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github-profile-trophy.vercel.app/?username=RasaReiszadeh&theme=tokyonight&no-frame=true&column=4)
-
----
-
-Passionate about technology and continuous learning 🌱
+## 🏆 Contributions & Activity
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RasaReiszadeh&theme=tokyonight&no-frame=true&column=4)
 
 ## 🌟 Additional Information
 
-- 🔭 **I’m currently working on**  
-  Developing a Delivery Management System using C++ and a Music App with JavaScript and CSS Grid as part of my coursework at Seneca Polytechnic. Starting my co-op as a QA Testing Engineer at MCSSA from winter.
+- 🔭 **Currently working on**  
+  A Delivery Management System in C++ and a web-based Music App using JavaScript and CSS Grid as part of my Seneca coursework. I also have hands-on experience from my QA Testing Engineer co-op with the Ontario Public Service (MCSS).
 
-- 🌱 **I’m currently learning**  
-  Full-stack development with Node.js and Express.js, as well as advanced database management using MongoDB.
+- 🌱 **Currently learning**  
+  Full-stack development, backend APIs, MongoDB, and test automation practices.
 
-- 👯 **I’m looking to collaborate on**  
-  Open-source projects related to software development, web applications, or database systems. I'm especially interested in collaborating on projects that involve C++, Python, or JavaScript.
+- 👯 **Open to collaborating on**  
+  Open-source or student-led projects involving backend development, web applications, or automation testing.
 
-- 🤔 **I’m looking for help with**  
-  Enhancing my skills in full-stack development, mastering Agile/Scrum methodologies, and improving my problem-solving techniques in complex programming scenarios.
+- 🤔 **Looking to improve**  
+  System design thinking, advanced testing strategies, and scalable backend development.
 
 - 💬 **Ask me about**  
-  Programming in C++ and Python, web development using JavaScript, HTML, and CSS, software project management with Agile/Scrum, or database design and optimization.
+  C++, Python, JavaScript, QA testing, Agile workflows, or balancing technical and communication skills in team projects.
 
-- 📫 **How to reach me:**  
-  - **Email:** [rreiszadeh@myseneca.ca](mailto:rreiszadeh@myseneca.ca)  
-  - **LinkedIn:** [linkedin.com/in/rasa-reiszadeh-04b8a3290](https://www.linkedin.com/in/rasa-reiszadeh-04b8a3290)  
-  - **GitHub:** [github.com/RasaReiszadeh](https://github.com/RasaReiszadeh)
+- 📫 **How to reach me**
+  - Email: rreiszadeh@myseneca.ca  
+  - LinkedIn: https://www.linkedin.com/in/rasareiszadeh  
+  - GitHub: https://github.com/RasaReiszadeh
 
-- 😄 **Pronouns:**  
-  She/Her
+- 😄 **Pronouns:** She/Her
 
 - ⚡ **Fun fact:**  
-  I transitioned from customer service and tutoring roles into software development, bringing strong communication and problem-solving skills to my technical projects.
-
----
+  I transitioned from customer service and tutoring into software development, which shaped my strong communication, teamwork, and problem-solving approach.
