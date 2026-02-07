@@ -49,14 +49,6 @@ I bring a strong mix of technical skills, analytical thinking, and communication
 - Practicing clean code, testing, and software design patterns
 - Expanding QA automation knowledge (Selenium, testing workflows)
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&theme=tokyonight&show_icons=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RasaReiszadeh&theme=tokyonight)
-
-## 🏆 Contributions & Activity
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RasaReiszadeh&theme=tokyonight&no-frame=true&column=4)
-
 ## 🌟 Additional Information
 
 - 🔭 **Currently working on**  
@@ -75,11 +67,11 @@ I bring a strong mix of technical skills, analytical thinking, and communication
   C++, Python, JavaScript, QA testing, Agile workflows, or balancing technical and communication skills in team projects.
 
 - 📫 **How to reach me**
-  - Email: rreiszadeh@myseneca.ca  
+  - Email: rreiszadeh@myseneca.ca   / rasarais2002@gmail.com
   - LinkedIn: https://www.linkedin.com/in/rasareiszadeh  
   - GitHub: https://github.com/RasaReiszadeh
 
 - 😄 **Pronouns:** She/Her
 
 - ⚡ **Fun fact:**  
-  I transitioned from customer service and tutoring into software development, which shaped my strong communication, teamwork, and problem-solving approach.
+  I get way too invested in solving problems — especially when someone says “this should be impossible.
