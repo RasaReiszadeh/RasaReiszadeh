@@ -1,4 +1,4 @@
-# Rasa Reiszadeh | Junior Software Developer | Toronto, Canada 🇨🇦
+# Rasa Reiszadeh | Junior Software Developer | Toronto, Canada
 
 ## 👩‍💻 About Me
 Junior Software Developer and Computer Programming & Analysis student at Seneca Polytechnic with hands-on experience in software development, QA testing, and automation. I enjoy building practical, user-focused solutions and thrive in environments where learning, collaboration, and problem-solving matter.
