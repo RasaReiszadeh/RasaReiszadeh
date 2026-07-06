@@ -2,13 +2,13 @@
 
 # Rasa Reiszadeh
 
-**Software Developer · QA Engineer · Computer Programming & Analysis @ Seneca Polytechnic**
+**Software Developer · QA Engineer · Biology × Code**
 
 Toronto, Ontario, Canada 🇨🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rasareiszadeh-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rasareiszadeh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rasareiszadeh.vercel.app-FF4D6D?style=flat-square&logo=vercel&logoColor=white)](https://rasareiszadeh.vercel.app)
 [![Email](https://img.shields.io/badge/Email-rasarais2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rasarais2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RasaReiszadeh-181717?style=flat-square&logo=github)](https://github.com/RasaReiszadeh)
 
 </div>
 
@@ -16,11 +16,11 @@ Toronto, Ontario, Canada 🇨🇦
 
 ## About Me
 
-I'm a final-year Computer Programming & Analysis student at Seneca Polytechnic with co-op experience as a QA Testing Engineer with the Ontario Public Service. I build things across the stack — REST APIs, cloud-backed microservices, mobile apps, ML pipelines, and AI-powered developer tools.
+I came from a biology lab and ended up building neural networks. I moved countries, learned a new industry from scratch, and earned a co-op as a Software Engineer with the Government of Ontario — where I was recognized by the CIO for QA contributions that improved testing efficiency across an Agile delivery team.
 
-My path into software was non-linear: I've been a math tutor, a lab assistant, and a call centre rep — roles that sharpened how I communicate, debug under pressure, and think about the people actually using what I build. That mix of technical depth and human perspective is something I bring to every project.
+I build full-stack web apps, cloud microservices, ML/CV pipelines, and AI-powered developer tooling. The biology background isn't a detour — lab precision, systematic documentation, and thinking in systems are things I use every day.
 
-I'm actively looking for Software Developer, Backend Developer, or QA Automation roles in Canada where I can do real work on a team that cares about quality.
+Graduating August 2026. Actively looking for software development, QA automation, AI/ML, and health tech roles in Canada.
 
 ---
 
@@ -34,6 +34,7 @@ I'm actively looking for Software Developer, Backend Developer, or QA Automation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -51,6 +52,7 @@ I'm actively looking for Software Developer, Backend Developer, or QA Automation
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_S3%2FDynamoDB-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **Databases**
 
@@ -60,7 +62,7 @@ I'm actively looking for Software Developer, Backend Developer, or QA Automation
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**AI / ML**
+**AI & ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -70,12 +72,12 @@ I'm actively looking for Software Developer, Backend Developer, or QA Automation
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-grey?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=black)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -84,91 +86,84 @@ I'm actively looking for Software Developer, Backend Developer, or QA Automation
 
 ## Featured Projects
 
-### 🍁 SettleCAN — Settlement Assistant for Newcomers to Canada
-> `React` · `Vite` · `Express.js` · `Supabase` · `PostgreSQL` · `React Bootstrap` · `SCSS`
-
-A full-stack capstone web app built with a team of 5 to help newcomers to Canada navigate settlement resources — health info, work permits, checklists, and community tools. I own the Task Manager, Checklist, Community Hub, and several information pages. Also responsible for backend email notification service, unit testing with Jest, and database schema design.
-
----
-
 ### ☁️ Fragments — Cloud Microservice API
 > `Node.js` · `Express` · `AWS S3` · `AWS DynamoDB` · `Docker` · `Jest` · `Passport.js`
 
-A production-style REST microservice for storing and converting user data fragments (text, markdown, images). Features JWT + HTTP Basic authentication, AWS S3 storage, DynamoDB metadata persistence, image conversion via Sharp, markdown-to-HTML rendering, and Dockerized deployment. Tested with Jest + Supertest and integration-tested with Hurl.
-
-**Fragments UI** — companion frontend that authenticates users, creates/reads/updates/deletes fragments, and handles type-based content conversion (Markdown → HTML, PNG ↔ JPEG) in the browser.
-
----
-
-### 🤖 AI-Powered Developer Tooling Suite
-> `TypeScript` · `Node.js` · `OpenRouter` · `Hono` · `Zod`
-
-A monorepo of AI-powered CLI and API tools built progressively across a course on AI-powered development:
-
-- **git-cm** — AI commit message generator from staged diffs
-- **ACE** — Flashcard generator with structured prompt engineering
-- **PR Analyzer** — GitHub PR analysis tool using chain-of-thought prompting  
-- **Flashcard API** — Hono HTTP server with Zod-validated structured outputs
-- **Tool-Calling Loop** — Multi-turn GitHub PR analysis agent using OpenRouter tool use
-
----
-
-### 🏨 RXH Grand Hotel — Full-Stack Hotel Management System
-> `Java` · `SQLite` · `JDBC` · `OOP` · `ERD Design`
-
-A desktop hotel management system built in Java with a full relational database backend. Covers guest check-in/checkout, room booking, loyalty programs, waitlists, admin dashboards, revenue reporting, and feedback management. Designed the full ERD, SQL schema (with foreign keys, constraints, and normalized tables), and Java service layer — all in a team of 4.
+Production-grade REST microservice for storing and converting user data fragments. JWT + HTTP Basic auth, AWS S3 storage, DynamoDB metadata, image conversion via Sharp, Markdown-to-HTML rendering, Dockerized deployment. Tested with Jest + Supertest + Hurl. Includes companion UI (Fragments UI) with full CRUD and type-based content conversion.
 
 ---
 
 ### 🚗 Self-Driving Car Simulation
-> `Python` · `TensorFlow` · `Keras` · `OpenCV` · `NumPy` · `Pandas`
+> `Python` · `TensorFlow` · `Keras` · `OpenCV` · `NumPy`
 
-Implemented NVIDIA's end-to-end CNN architecture for autonomous steering control. Pipeline includes dataset balancing (to remove steering-zero bias), image augmentation (flipping, brightness, zoom, pan), YUV color preprocessing, and training with EarlyStopping and ModelCheckpoint callbacks. Achieved stable autonomous driving behavior in the Udacity simulator.
-
----
-
-### 🍁 Net & Notion — Professional Networking Companion App *(In Progress)*
-> `React Native` · `Expo Router` · `Firebase/Firestore`
-
-A mobile app for capturing professional contacts with context — event notes, where you met, what to follow up on. Think LinkedIn meets a personal journal. Handles full contact lifecycle (create, edit, delete, export) with focus-aware data fetching and Firestore REST integration.
+NVIDIA's end-to-end CNN architecture for autonomous steering. Full ML pipeline: dataset balancing, image augmentation (flip, brightness, zoom, pan), YUV preprocessing, EarlyStopping + ModelCheckpoint callbacks. Stable autonomous driving in the Udacity simulator.
 
 ---
 
-### 📦 Delivery Management System
-> `C++` · `OOP` · `UML`
+### 🍁 SettleCAN — Settlement Assistant for Newcomers to Canada
+> `React` · `Vite` · `Express.js` · `Supabase` · `PostgreSQL` · `Jest` · `SCSS`
 
-A command-line delivery management system designed with object-oriented principles, UML class diagrams, and a team collaboration workflow. Covers class hierarchies, file I/O, and logistics domain modeling.
+Full-stack capstone (team of 5) helping newcomers to Canada navigate settlement resources. I owned Task Manager, Checklist, Community Hub, email notification service, unit tests with Jest, and database schema design.
+
+---
+
+### 🤖 AI-Powered Developer Tooling Suite
+> `TypeScript` · `Node.js` · `Hono` · `Zod` · `OpenRouter`
+
+Monorepo of AI-powered CLI and API tools: AI commit message generator, flashcard generator with few-shot prompting, GitHub PR analyser with chain-of-thought reasoning, and a multi-turn tool-calling agent loop over the OpenRouter LLM API.
+
+---
+
+### 🏨 RXH Grand Hotel Management System
+> `Java` · `SQLite` · `JDBC` · `OOP` · `ERD Design`
+
+Full hotel management system with check-in/out, room booking, loyalty programmes, waitlists, and admin dashboard with revenue reporting. Designed the complete ERD, normalised SQL schema with FK constraints, and Java service layer. Team of 4.
 
 ---
 
 ## Experience
 
-**QA Testing Engineer Co-op** · Ontario Public Service (MCSS) · *Toronto, ON*
+**Junior Software Engineer (Co-op)** · Government of Ontario · *Jan 2025 – Aug 2025*
 
-Manual testing, test case execution, and defect reporting on enterprise government applications. Collaborated in Agile sprints, worked closely with developers and business analysts to keep testing coverage aligned with acceptance criteria.
-
----
-
-
-## GitHub Stats
-
-<div align="center">
-
-![Rasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RasaReiszadeh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasaReiszadeh&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
+Recognized by the CIO for QA automation contributions that improved test coverage and reduced manual testing effort. Built automated test suites with Selenium and Cucumber, executed API testing with Postman, collaborated in Agile sprints with developers and business analysts, and worked with Azure and Git in a regulated government delivery environment.
 
 ---
 
+## Courses Completed — Seneca Polytechnic
+
+| Course | Topics |
+|---|---|
+| AI for Programmers (AIP444) | LLM APIs, prompt engineering, tool-calling, TypeScript AI tooling |
+| Cross-platform App Development (WEB530) | React Native, Expo Router, Firebase, geolocation |
+| Introduction to UI/UX Design (UIX544) | Figma, user research, prototyping, iOS design patterns |
+| Project Implementation (PRJ666) | Full-stack capstone, Agile team delivery |
+| Application Development (APD545) | Java, JDBC, OOP, database-backed desktop apps |
+| Cloud Computing for Programmers (CCP555) | AWS, Docker, containerized microservices |
+| Computer Vision (CVI620) | OpenCV, CNNs, image preprocessing, TensorFlow/Keras |
+| Data Structures & Algorithms (DSA456) | Recursion, Big-O, linked lists, trees, sorting |
+| Project Planning & Management (PRJ566) | Agile, sprint planning, risk management |
+
+---
+
+## Repos Worth Pinning
+
+| Repo | What it shows |
+|---|---|
+| `fragments` | Cloud microservice: AWS S3/DynamoDB, Docker, JWT auth, Jest |
+| `self-driving-car-simulation` | CNN, TensorFlow/Keras, full ML data pipeline |
+| `settle-can` | Full-stack React + Express + Supabase, team capstone |
+| `aip444-main` | TypeScript, LLM APIs, tool-calling, structured outputs |
+| `apd545-hotel-system` | Java + SQLite, ERD design, OOP architecture |
+
+---
 
 <div align="center">
 
-**Open to Software Developer · Backend Developer · QA Automation roles in Canada**
+**Open to Software Developer · QA Automation · AI/ML · Health Tech roles in Canada**
 
-*Let's connect — I respond fast.*
+*Biology background. Engineering mindset. I respond fast.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4D6D?style=for-the-badge&logo=vercel&logoColor=white)](https://rasareiszadeh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasareiszadeh)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasarais2002@gmail.com)
 
